@@ -40,6 +40,12 @@
         "projectId": "b1d82cd9-adde-4cf1-8af6-bd2cf10aa0d0"
       }
     },
-    "owner": "viahal_k78"
+    "owner": "viahal_k78",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b1d82cd9-adde-4cf1-8af6-bd2cf10aa0d0"
+    }
   }
 }
